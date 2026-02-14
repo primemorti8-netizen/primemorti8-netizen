@@ -5,6 +5,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=primemorti8-netizen&theme=tokyonight)
 
 ###  Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=primemorti8-netizen&layout=compact&theme=tokyonight)
+JS конечно вы че
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
