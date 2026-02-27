@@ -5,7 +5,7 @@
 
 <p align="center">
   <h3>Владею на продвинутом уровне:<h3>
-  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,vim" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,vim,js" />
   <br>
   <img src="https://skillicons.dev/icons?i=python,docker,cmake,vscode" />
 </p>
