@@ -3,8 +3,7 @@
 
 ###  Most Used Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 
-Владею на продвинутом уровне: 
-<p align="center">
+<p align="center" Владею на продвинутом уровне: >
   <!-- Core -->
   <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,vim" />
   <br>
