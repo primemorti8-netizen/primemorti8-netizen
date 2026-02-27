@@ -9,3 +9,10 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 @loona
+<p align="center">
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,git,github,vim" />
+  <br>
+  <!-- Expanding -->
+  <img src="https://skillicons.dev/icons?i=python,docker,cmake,vscode" />
+</p>
