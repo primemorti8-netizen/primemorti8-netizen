@@ -1,5 +1,3 @@
-###  Streak Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=primemorti8-netizen&theme=tokyonight)
 <div align="center">
 
 ### Streak Stats
