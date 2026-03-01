@@ -23,10 +23,8 @@
 </div>
 
 <br>
+
+
 Нужен человек для совместного программирования 
 Формат: созвон + совместная IDE-сессия.
 КОЛЛАБОРАЦИЯ так сказать понял
-
-
-![Vim](https://img.shields.io/badge/-Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
