@@ -14,11 +14,11 @@
 <div align="center">
   <h3>Владею на продвинутом уровне:</h3>
   
-  <img src="https://skillicons.dev/icons?i=js,python,bash,linux,git,github,docker,cmake" alt="Advanced Skills" />
+  <img src="https://skillicons.dev/icons?i=js,bash,linux,git,github,docker," alt="Advanced Skills" />
   
   <br><br>
   
-  <img src="https://skillicons.dev/icons?i=nodejs,react,ts,html,css,sqlite,mysql,postgres" alt="Frontend & Backend Bonus" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,ts,html,css,sqlite,mysql," alt="Frontend & Backend Bonus" />
 </div>
 
 <br>
