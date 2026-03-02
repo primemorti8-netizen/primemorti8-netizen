@@ -12,7 +12,7 @@
 <br>
 
 <div align="center">
-  <h3>Владею на продвинутом уровне:</h3>
+  <h3>Владею на уровне дебила:</h3>
   
   <img src="https://skillicons.dev/icons?i=js,bash,linux,git,github,docker," alt="Advanced Skills" />
   
