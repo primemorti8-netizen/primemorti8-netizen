@@ -3,7 +3,8 @@
   
   <h2>primemorti8-netizen</h2>
   
-  <p><strong>JS/TS</strong> <br>
+  <p><strong><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></strong> <br>
   ищу напарника для совместного программирования.</p>
 
   <h3>Владею на уровне дебила:</h3>
@@ -24,8 +25,7 @@
   <hr>
   
   <p>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+    
   </p>
 </div>
 
