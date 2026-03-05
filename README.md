@@ -3,7 +3,7 @@
   
   <h2>primemorti8-netizen</h2>
   
-  <p><strong>JS/TS дебила с душой Linux-админа</strong> <br>
+  <p><strong>JS/TS</strong> <br>
   ищу напарника для совместного программирования.</p>
 
   <h3>Владею на уровне дебила:</h3>
@@ -16,7 +16,7 @@
 
   <br><br>
 
-  <h3>💬 Ищу человека для КОЛЛАБОРАЦИИ</h3>
+  <h3>Ищу человека для КОЛЛАБОРАЦИИ</h3>
   <p><strong>Формат:</strong> созвон в Discord/Telegram + совместная сессия в <strong>Cursor / VS Code Live Share / JetBrains Code With Me</strong></p>
   
   <p></p>
