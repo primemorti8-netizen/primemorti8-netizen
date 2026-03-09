@@ -16,8 +16,8 @@
 
   <br><br>
 
-  <h6>Ищу напарника для коллаборации</h6>
-  <p><strong>Формат:</strong> созвон в Discord/Telegram + совместная сессия в <strong>Cursor / VS Code Live Share / JetBrains Code WM</strong></p>
+  <h6>**Ищу напарника для коллаборации**</h6>
+ 
   
   <p></p>
 
