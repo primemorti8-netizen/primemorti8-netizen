@@ -1,4 +1,4 @@
-<div align="center">
+<div>
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=primemorti8-netizen&theme=tokyonight&border_radius=0&card_width=800" alt="GitHub Streak" />
  
