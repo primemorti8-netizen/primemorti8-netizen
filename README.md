@@ -1,35 +1,35 @@
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=primemorti8-netizen&theme=tokyonight&border_radius=10&card_width=800" alt="GitHub Streak" />
-  
-  <h2></h2>
-  
-  <p><strong></strong> <br>
-  </p>
 
-  <h3>Владею на базовом уровне:</h3>
-  
-  <img src="https://skillicons.dev/icons?i=js,bash,linux,git,github,docker" alt="Advanced Skills" />
-  
-  <br><br>
-  
-  <img src="https://skillicons.dev/icons?i=nodejs,react,ts,html,css,sqlite,mysql" alt="Frontend & Backend Bonus" />
+```javascript
+const developer = {
+  focus:      "JavaScript & Web Development",
+  looking:    "open to collaboration",
+  status:     "building things that work",
+};
+```
 
-  <br><br>
+---
 
-  <h6>**Ищу напарника для коллаборации**</h6>
- 
-  
-  <p></p>
+###  владею уверенно
 
-  <hr>
-  
-  <p>
-    
-  </p>
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react" alt="Core Skills" />
+
+> JavaScript — основной язык. Знаю асинхронность, замыкания, прототипы, Event Loop, работу с DOM и API. TypeScript использую в продакшн-проектах.
+
+---
+
+### 🛠 DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker" alt="DevOps Skills" />
+
+---
+
+###  GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=primemorti8-netizen&theme=tokyonight&border_radius=10&card_width=800" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=primemorti8-netizen&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" alt="GitHub Stats" />
+
+---
+
 </div>
-
-<br>
-
-<p align="center">
-  <i></i>
-</p>
