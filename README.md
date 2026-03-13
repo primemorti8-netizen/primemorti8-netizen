@@ -14,7 +14,7 @@ const developer = {
 
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react" alt="Core Skills" />
 
-> JavaScript — основной язык. Знаю асинхронность, замыкания, прототипы, Event Loop, работу с DOM и API. TypeScript использую в продакшн-проектах.
+> JavaScript — на продвинутом
 
 ---
 
