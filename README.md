@@ -1,13 +1,5 @@
 <div align="center">
 
-```javascript
-const developer = {
-  focus:      "JavaScript & Web Development",
-  looking:    "open to collaboration",
-  status:     "building things that work",
-};
-```
-
 ---
 
 ###  владею уверенно
@@ -18,7 +10,7 @@ const developer = {
 
 ---
 
-### 🛠 DevOps & Tools
+###  DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker" alt="DevOps Skills" />
 
