@@ -39,6 +39,6 @@
  
 <img src="https://github-readme-stats.vercel.app/api?username=primemorti8-netizen&show_icons=true&theme=tokyonight&border_radius=0&hide_border=false" alt="GitHub Stats" />
 
- ![Visitor Count](https://komarev.com/ghpvc/?username=primemorti8-netizen&style=flat-square&color=1a1b27&label=visitors)
+ 
  
 </div>
