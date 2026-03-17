@@ -39,6 +39,4 @@
  
 <img src="https://github-readme-stats.vercel.app/api?username=primemorti8-netizen&show_icons=true&theme=tokyonight&border_radius=0&hide_border=false" alt="GitHub Stats" />
 
- 
- 
 </div>
